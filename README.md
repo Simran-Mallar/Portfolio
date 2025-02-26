@@ -17,8 +17,7 @@
 
 ## WORK EXPERIENCE 
 #### **Data Science Intern @ Reliance JPL(Jio Platforms Ltd)  (_Jan 2024 - May 2024_)**
-- **Anomaly Detection System in Telecom Network**: Engineered an advanced anomaly detection system for telecom networks using machine learning & deep learning
-to analyze massive datasets. Through continuous model training and refinement, the system identified potential threats
+- **Anomaly Detection System in Telecom Network**: Engineered an advanced anomaly detection system for telecom networks using machine learning & deep learning to analyze massive datasets. Through continuous model training and refinement, the system identified potential threats
 with 97% accuracy, leading directly to enhancements in operational protocols and significantly strengthening
 overall cybersecurity measures across platforms.
 
@@ -56,7 +55,7 @@ of GCP (Google Cloud Platform) certifications.
 
 ## Projects
 ### 🎵Sung-Geet: Personalized Music Player Using Real-time Facial Emotions 
-[Publication](https://www.jetir.org/papers/JETIR2406838.pdf)
+🔗 [Publication](https://www.jetir.org/papers/JETIR2406838.pdf)
 
 Created a personalized music recommender system that leverages live facial expressions captured via webcam to suggest songs based on the user's emotional state. Utilized MTCNN for real-time face detection and fine- tuned MobileNet for emotion classification, employing the FER2013 dataset to ensure robust emotion recognition. Implemented advanced image preprocessing, data augmentation, and overfitting techniques, surpassing existing system accuracy rates by 10–20%. Delivered personalized music recommendations in Hindi and English, enhancing the user experience through a dynamic and interactive platform. 
 
