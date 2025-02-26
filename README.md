@@ -35,7 +35,10 @@ perspectives during workshops, enriching the overall learning experience.
 of GCP (Google Cloud Platform) certifications.
 
 **Student Intern @ EDUREKA  (_August 2022 - December 2022_)**
-- ***📈 Stock Market Analysis***: Built a Python application using Pandas, Seaborn, and Matplotlib to analyze data from leading technology companies like Apple, Google, Amazon, and Microsoft. This project helped assess historical performance and potential risks associated with these stocks. 
+- ***📈 Stock Market Analysis***:
+  🔗 [GitHub Repository](https://github.com/Simran-Mallar/Stock-Market-Analysis-using-Python)
+  Built a Python application using Pandas, Seaborn, and Matplotlib to analyze data from leading technology companies like Apple, Google, Amazon, and Microsoft. This project
+  helped assess historical performance and potential risks associated with these stocks. 
 - ***🎥 Movie Recommender System***: Developed a content-based movie recommender system using cosine similarity and  Streamlit. Employed NLP techniques, PorterStemmer for precise text normalization and CountVectorizer for robust feature extraction, while effectively removing stop words to enhance content accuracy. Crafted a sophisticated web application that delivers personalized movie suggestions tailored to user preferences. 
 - ***🦠 COVID-19 Analysis using Tableau***: Developed a Tableau dashboard to visualize and analyze COVID-19 data across India, tracking the progression of cases, deaths, and recoveries over time. Mapped regional hotspots, demographic impacts by age and gender, and tracked vaccination progress, providing comprehensive insights for data-driven decision-making.
 
@@ -48,6 +51,7 @@ of GCP (Google Cloud Platform) certifications.
 Created a personalized music recommender system that leverages live facial expressions captured via webcam to suggest songs based on the user's emotional state. Utilized MTCNN for real-time face detection and fine- tuned MobileNet for emotion classification, employing the FER2013 dataset to ensure robust emotion recognition. Implemented advanced image preprocessing, data augmentation, and overfitting techniques, surpassing existing system accuracy rates by 10–20%. Delivered personalized music recommendations in Hindi and English, enhancing the user experience through a dynamic and interactive platform. 
 
 ### 🧬Multiple Disease Prediction System 
+🔗 [GitHub Repository](https://github.com/Simran-Mallar/Multiple-Diesease-prediction-system)
 Designed a prediction model leveraging machine learning algorithms and user metrics such as blood pressure, heart 
 rate, and other pertinent variables. The project includes three sections: an information page detailing the diseases, a 
 prediction system for diabetes, heart disease, and Parkinson's disease, and a treatment section offering remedies for 
