@@ -2,5 +2,17 @@ theme: jekyll-theme-minimal
 title: Simran Raviraj Mallar
 logo: /assets/img/headshot_circle.png
 # show_downloads: true 
-description: "Connect with me on <a href='http://www.linkedin.com/in/simran-mallar-503bb3247' target='_blank'>LinkedIn</a> | <a href='https://github.com/Simran-Mallar' target='_blank'>GitHub</a>"
+# description: "Connect with me on <a href='http://www.linkedin.com/in/simran-mallar-503bb3247' target='_blank'>LinkedIn</a> | <a href='https://github.com/Simran-Mallar' target='_blank'>GitHub</a>"
+title: Simran Raviraj Mallar
+logo: /assets/img/headshot_circle.png
+theme: jekyll-theme-minimal
+description: "Data Science Enthusiast "
+
+social_links:
+  website: "https://simranmallar.github.io/"
+  linkedin: "https://www.linkedin.com/in/simranmallar"
+  github: "https://github.com/SimranMallarr"
+  kaggle: "https://www.kaggle.com/cea327simranmallar/code"
+  leetcode: "https://leetcode.com/u/mallarsimran20/"
+  email: "mallarsimran20@gmail.com"
 
