@@ -1,5 +1,5 @@
 
-📧 [**Email**](mailto:mallarsimran20@gmail.com)  🔗 [**LinkedIn**](https://www.linkedin.com/in/simranmallar)  🌐 [**GitHub**](https://github.com/SimranMallarr)  📊 [**Kaggle**](https://www.kaggle.com/cea327simranmallar/code)  💻 [**LeetCode**](https://leetcode.com/u/mallarsimran20/)  
+📧 [**Email**](mailto:mallarsimran20@gmail.com)  🔗 [**LinkedIn**](https://www.linkedin.com/in/simran-mallar-503bb3247)  🌐 [**GitHub**](https://github.com/SimranMallar)  📊 [**Kaggle**](https://www.kaggle.com/cea327simranmallar/code)  💻 [**LeetCode**](https://leetcode.com/u/mallarsimran20/)  
 
 ---
 
@@ -20,7 +20,8 @@
 - **Anomaly Detection System in Telecom Network**: Engineered an advanced anomaly detection system for telecom networks using machine learning & deep learning
 to analyze massive datasets. Through continuous model training and refinement, the system identified potential threats
 with 97% accuracy, leading directly to enhancements in operational protocols and significantly strengthening
-overall cybersecurity measures across platforms. 
+overall cybersecurity measures across platforms.
+
 - ***Intelligent Vision System for Solar Panel Maintenance***: Designed a CNN model with advanced fine-tuning techniques; this intelligent system reduced manual inspection time by 40%, ensuring improved efficiency in solar panel upkeep while maximizing output.
 
 **Technical Member @ Google Developer Students Club (GDSC)- PCE (_August 2022 - September 2023_)**
