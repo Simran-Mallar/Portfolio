@@ -7,7 +7,7 @@
 
 ---
 
-## EDUCATION 🎓
+## EDUCATION 
 - B.Tech-Computer Engineering, University of Mumbai (_2020 – 2024_), Grade: **9.83 CGPA**
 - Higher Secondary Certificate(CBSE Board) (_2019-2020_), Grade: **84.2%**
 - Secondary School Certificate(ICSE Board) (_2017 - 2018_),Grade: **83.5%**
@@ -15,7 +15,7 @@
 ---
 
 
-## WORK EXPERIENCE 💻
+## WORK EXPERIENCE 
 #### **Data Science Intern @ Reliance JPL(Jio Platforms Ltd)  (_Jan 2024 - May 2024_)**
 - **Anomaly Detection System in Telecom Network**: Engineered an advanced anomaly detection system for telecom networks using machine learning & deep learning
 to analyze massive datasets. Through continuous model training and refinement, the system identified potential threats
