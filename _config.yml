@@ -3,10 +3,15 @@ title: Simran Raviraj Mallar
 logo: /assets/img/headshot_circle.png
 # show_downloads: true 
 # description: "Connect with me on <a href='http://www.linkedin.com/in/simran-mallar-503bb3247' target='_blank'>LinkedIn</a> | <a href='https://github.com/Simran-Mallar' target='_blank'>GitHub</a>"
-title: Simran Raviraj Mallar
-logo: /assets/img/headshot_circle.png
-theme: jekyll-theme-minimal
-description: "Data Science Enthusiast "
+
+description: "
+  Connect with me on  
+  🌐 <a href="https://simranmallar.github.io/" target="_blank">Portfolio</a> <br>  
+  🔗 <a href="https://www.linkedin.com/in/simranmallar" target="_blank">LinkedIn</a> <br>  
+  🐙 <a href="https://github.com/SimranMallarr" target="_blank">GitHub</a> <br>  
+  📊 <a href="https://www.kaggle.com/cea327simranmallar/code" target="_blank">Kaggle</a> <br>  
+  💻 <a href="https://leetcode.com/u/mallarsimran20/" target="_blank">LeetCode</a> <br>  
+  📧 <a href="mailto:mallarsimran20@gmail.com">Email</a>"
 
 social_links:
   website: "https://simranmallar.github.io/"
