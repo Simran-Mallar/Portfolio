@@ -1,5 +1,5 @@
 
-📧 [**Email**](mailto:mallarsimran20@gmail.com)  🔗 [**LinkedIn**](https://www.linkedin.com/in/simran-mallar-503bb3247)  🌐 [**GitHub**](https://github.com/SimranMallar)  📊 [**Kaggle**](https://www.kaggle.com/cea327simranmallar/code)  💻 [**LeetCode**](https://leetcode.com/u/mallarsimran20/)  
+📧 [**Email**](mailto:mallarsimran20@gmail.com)  🔗 [**LinkedIn**](https://www.linkedin.com/in/simran-mallar-503bb3247)  🌐 [**GitHub**](https://github.com/simran-mallar)  📊 [**Kaggle**](https://www.kaggle.com/cea327simranmallar/code)  💻 [**LeetCode**](https://leetcode.com/u/mallarsimran20/)  
 
 ---
 
