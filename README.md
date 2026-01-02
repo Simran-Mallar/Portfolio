@@ -8,6 +8,7 @@
 ---
 
 ## EDUCATION 
+- MSc. Data Science,Technical University of Braunschweig (_04/2025 - Current_), Grade: **2.3 GPA**
 - B.Tech-Computer Engineering, University of Mumbai (_2020 – 2024_), Grade: **9.83 CGPA**
 - Higher Secondary Certificate(CBSE Board) (_2019-2020_), Grade: **84.2%**
 - Secondary School Certificate(ICSE Board) (_2017 - 2018_),Grade: **83.5%**
@@ -16,21 +17,20 @@
 
 
 ## WORK EXPERIENCE 
+
+#### **Student Research Assistant  @Institute of Machine Tools and Production Technology (IWF), TU Braunschweig (_Sept 2025 – December 2025_)**
+- **Conducting research on data-driven process simulation and analysis for sustainable production systems.**
+- **Developing Python-based data stimulation and preprocessing pipelines for machine and sensor data.**
+- **Assisting in the implementation of predictive models to evaluate product quality and process efficiency.**
+- **Supporting visualization and evaluation of simulation outputs to identify anomalies and optimize process parameters.**
+- **Collaborating with interdisciplinary teams to integrate data science methods into manufacturing workflows.**
+
 #### **Data Science Intern @ Reliance JPL(Jio Platforms Ltd)  (_Jan 2024 - May 2024_)**
 - **Anomaly Detection System in Telecom Network**: Engineered an advanced anomaly detection system for telecom networks using machine learning & deep learning to analyze massive datasets. Through continuous model training and refinement, the system identified potential threats
 with 97% accuracy, leading directly to enhancements in operational protocols and significantly strengthening
 overall cybersecurity measures across platforms.
 
 - ***Intelligent Vision System for Solar Panel Maintenance***: Designed a CNN model with advanced fine-tuning techniques; this intelligent system reduced manual inspection time by 40%, ensuring improved efficiency in solar panel upkeep while maximizing output.
-
-**Technical Member @ Google Developer Students Club (GDSC)- PCE (_August 2022 - September 2023_)**
-- Led engaging technical workshops at GDSC PCE with 200+ participants, fostering students technical skill development in programming languages, cybersecurity, cloud computing, data science, and more. 
-- Developed curriculum and resources for workshops by creating detailed instructional materials and hands-on exercises, ensuring comprehensive coverage of topics and effective learning outcomes. 
-- Coordinated five live projects focused on machine learning and deep learning within the department. 
-- Established industry connections by arranging guest speakers to provide additional insights and real-world 
-perspectives during workshops, enriching the overall learning experience. 
-- Mentored 25+ student groups through a structured curriculum, guiding them towards the successful completion 
-of GCP (Google Cloud Platform) certifications.
 
 **Student Intern @ EDUREKA  (_August 2022 - December 2022_)**
 - ***📈 Stock Market Analysis***:
@@ -75,7 +75,36 @@ Built a simple and efficient billing system using Python, SQLite3, and Tkinter t
 
 ---
 
-## Awards and Certifications  
+## VOLUNTEERING WORK
+
+
+**Vice President & Co-Founder - Indian Student Community, TU Braunschweig (May_2025 – Present_)**
+
+📰 Featured by TU Braunschweig: [Read Article](https://magazin.tu-braunschweig.de/m-post/ein-zuhause-weit-weg-von-zu-hause/) 
+
+📸 Instagram: [@isc_tubs](https://www.instagram.com/isc_tubs)
+
+- Co-founded the first Indian Student Association at TU Braunschweig, establishing a “home away from home” for international students, aimed at fostering community integration and cultural representation.
+- Planned and executed three large-scale cultural and social events (Cricket Match, Garba Night, Diwali), promoting intercultural 
+exchange and student engagement.
+- Developed and supported a growing community of approximately 100 members, serving as a primary point of contact for newly 
+arrived international students. 
+- Oversaw end-to-end event coordination & outreach, successfully engaging 60+ participants from diverse cultural backgrounds. 
+- Established and managed a student broadcast communication channel to provide guidance on accommodation, city 
+registration, course enrollment, and administrative processes.
+
+**Technical Member @ Google Developer Students Club (GDSC)- PCE (_August 2022 - September 2023_)**
+- Led engaging technical workshops at GDSC PCE with 200+ participants, fostering students technical skill development in programming languages, cybersecurity, cloud computing, data science, and more. 
+- Developed curriculum and resources for workshops by creating detailed instructional materials and hands-on exercises, ensuring comprehensive coverage of topics and effective learning outcomes. 
+- Coordinated five live projects focused on machine learning and deep learning within the department. 
+- Established industry connections by arranging guest speakers to provide additional insights and real-world 
+perspectives during workshops, enriching the overall learning experience. 
+- Mentored 25+ student groups through a structured curriculum, guiding them towards the successful completion 
+of GCP (Google Cloud Platform) certifications.
+---
+
+## AWARDS, SCHOLARSHIP , TECHNICAL CERTIFICATES 
+- **Deutschlandstipendium 2025/26**  
 
 - **Academic Topper**  
   - 🎖**1st** Rank in Computer Engineering Department (2023–24) with **9.83** CGPA  
@@ -87,3 +116,5 @@ Built a simple and efficient billing system using Python, SQLite3, and Tkinter t
   - Data science and Machine learning, Edureka
   - Google Cloud Career Practitioner Campaign 2022
   - Machine Learning; Pandas; Seaborn; Data Cleaning; Data Visualization; Computer Vision - Kaggle
+
+  
