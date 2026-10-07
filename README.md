@@ -8,8 +8,8 @@
 ---
 
 ## EDUCATION 
-- MSc. Data Science,Technical University of Braunschweig (_04/2025 - Current_), Grade: **1.7 GPA**
-- B.Tech-Computer Engineering, University of Mumbai (_2020 – 2024_), Grade: **9.83 CGPA**
+- MSc. Data Science,Technical University of Braunschweig (_04/2025 - Current_), Grade: **1.8 GPA**
+- B.Tech-Computer Engineering, University of Mumbai (_2020 – 2024_), Grade: **9.83 GPA (1.1 GPA - German grade)**
 - Higher Secondary Certificate(CBSE Board) (_2019-2020_), Grade: **84.2%**
 - Secondary School Certificate(ICSE Board) (_2017 - 2018_),Grade: **83.5%**
 
@@ -20,11 +20,16 @@
 ### **Student Research Assistant**
 
 #### **Institute of Building Materials, Concrete Construction & Fire Safety (iBMB MPA), TU Braunschweig**
-##### **(Feb 2025 – Present_)**
+##### **(Feb 2025 – Present)**
 
 -	**Developed and structured experimental documentation resources on eLabFTW, including the creation of new project pages and systematic organization of research data.**
--	**Processed and analysed cone calorimeter datasets to support fire safety research and material combustion analysis.**
--	**Implementing Python-based data analysis models to compute Heat Release Rate (HRR) in fire experiments using gas concentration measurements (O₂, CO₂, CO) and time-series sensor data from cone calorimeter.**
+-	**Developed and maintained a Python-based automated data analysis pipeline for cone calorimeter experiments, processing and standardizing experimental datasets for fire safety and material combustion analysis.**
+- **Implemented ISO 5660-1-based calculations for key fire performance parameters, including Heat Release Rate (HRR), HRR per unit area, Total Heat Release (THR), Mass Loss Rate (MLR), Smoke Production Rate (SPR), Specific Extinction Area (SEA), FIGRA, SMOGRA, and effective Heat of Combustion (eHOC).**
+- **Processed O₂, CO₂, CO, pressure, temperature, mass, and optical sensor time-series data, including automated column mapping, numerical preprocessing, and data validation.**
+- **Implemented gas analyzer drift correction for O₂, CO₂, and CO measurements using time-dependent linear correction and integrated the corrected data into subsequent calculations.**
+- **Developed automated batch processing for multiple cone calorimeter experiments, including experiment detection, result generation, master summaries, and Excel-based performance comparisons.**
+- **Developed automated comparison plots and cross-test visualizations to validate calculated parameters against measurement-system results.**
+
 
 
 
